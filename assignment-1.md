@@ -70,9 +70,12 @@ I added a simple line of text to the file and saved the changes. Then I refreshe
 
 ### Step 5: Screenshots & Proof of Work
 (This screenshot shows the SSH connection to the Ubuntu virtual machine)
+<img width="1916" height="948" alt="image" src="https://github.com/user-attachments/assets/7b0f626c-2593-4cd3-9398-644616b2a7ca" />
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/05839a81-855c-426a-b9d6-3a4c1f3b4e2e" />
 
-<img width="878" height="951" alt="image" src="https://github.com/user-attachments/assets/db293c61-1be7-4c50-893f-79a80458e561" />
+
 
 (This screenshot shows the customized index.html webpage being accessed through http://86.50.230.220)
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/4b0d9dd8-526e-43ec-be70-feb78d1229ec" />
 
-<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/a20f91b6-4a47-4bbb-9ea1-ffcca8b9bd35" />
+

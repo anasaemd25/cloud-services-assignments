@@ -2,8 +2,8 @@
 For this assignment, I set up a virtual machine on CSC cPouta. The goal was to deploy a Virtual Private Server (VPS) and learn how IaaS works.
 
 *   **What is IaaS and why to choose IaaS??**: 
-* IaaS means Infrastructure as a Service. Wich in this case, CSC takes care of the physical hardware, virtualization and the main network infrastructure.
-* Using IaaS makes me responsible for the things such as: the operating system, network settings and the applications running on the server.
+* IaaS means Infrastructure as a Service. In this case, CSC takes care of the physical hardware, virtualization and the main network infrastructure.
+* Using IaaS makes me responsible for things such as: the operating system, network settings and the applications running on the server.
 
 In my case, I used Ubuntu as the operating system and Apache2 as the web server. I also configured the security group to allow the ports that I needed.
    
@@ -71,9 +71,8 @@ I added a simple line of text to the file and saved the changes. Then I refreshe
 ### Step 5: Screenshots & Proof of Work
 (This screenshot shows the SSH connection to the Ubuntu virtual machine)
 <img width="1916" height="948" alt="image" src="https://github.com/user-attachments/assets/7b0f626c-2593-4cd3-9398-644616b2a7ca" />
+
 <img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/05839a81-855c-426a-b9d6-3a4c1f3b4e2e" />
-
-
 
 (This screenshot shows the customized index.html webpage being accessed through http://86.50.230.220)
 <img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/4b0d9dd8-526e-43ec-be70-feb78d1229ec" />
